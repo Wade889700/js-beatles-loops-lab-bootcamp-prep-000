@@ -19,11 +19,11 @@ function johnLennonFacts(facts){
 }
 
 
-/*function iLoveTheBeatles(number){
+function iLoveTheBeatles(number){
     do{
     var myArray = [];
     var i = 0; 
     myArray.push("I love the Beatles!")
     i++
     }while(number>i);
-}*/
+}
